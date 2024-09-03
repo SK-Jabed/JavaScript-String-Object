@@ -25,3 +25,6 @@ console.log(boyos);
 
 // console.log(person."fav places");
 console.log(person["fav places"]);
+
+const keyName = "profession";
+console.log(person[keyName]);
